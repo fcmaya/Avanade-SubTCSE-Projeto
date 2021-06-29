@@ -7,10 +7,8 @@ on:
     branches: [ main ]
 
 defaults:
-
   run:
-  
-    working-directory: src
+    working-directory: src/Avanade.SubTCSE.Projeto
     
 jobs:
   build:
